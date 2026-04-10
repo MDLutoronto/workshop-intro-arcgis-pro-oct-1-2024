@@ -26,7 +26,7 @@ WHAT TO EXPECT
 
 In addition to these practical skills, we’ll also cover the fundamentals of GIS, including an overview of different file formats such as raster and vector data. If you'd like to learn how to use spatial analysis in your studies and research, this workshop is the perfect starting point. Don’t miss this opportunity to enhance your GIS skills and take your first steps with ArcGIS Pro.
 
-UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, fill out our [request form](https://mdl.library.utoronto.ca/arcmap/request).
+UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, follow the instructions here: <a href="https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro">https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro</a>. Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see <a href="https://mdl.library.utoronto.ca/technology/computers-with-gis-software">https://mdl.library.utoronto.ca/technology/computers-with-gis-software</a>).
 
 [**Recording - 1:33:14**](https://play.library.utoronto.ca/watch/71bdfa9a0eaf8c724834bcbb7d1ddb0c) **&** [**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISProIntro/Slides.pdf)
 
