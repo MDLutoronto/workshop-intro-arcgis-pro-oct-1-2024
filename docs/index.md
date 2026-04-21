@@ -28,7 +28,16 @@ In addition to these practical skills, we’ll also cover the fundamentals of GI
 
 UofT Libraries provides a free license for ArcGIS Pro. To obtain the software, follow the instructions here: <a href="https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro">https://mdl.library.utoronto.ca/technology/tutorials/downloading-installing-and-licensing-arcgis-pro</a>. Please note that ArcGIS Pro is Windows-only. If you don't have Windows, you can use the software on campus (see <a href="https://mdl.library.utoronto.ca/technology/computers-with-gis-software">https://mdl.library.utoronto.ca/technology/computers-with-gis-software</a>).
 
-[**Recording - 1:33:14**](https://play.library.utoronto.ca/watch/71bdfa9a0eaf8c724834bcbb7d1ddb0c) **&** [**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISProIntro/Slides.pdf)
+[**Recording - 1:33:14**](https://play.library.utoronto.ca/watch/71bdfa9a0eaf8c724834bcbb7d1ddb0c)
+<iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/71bdfa9a0eaf8c724834bcbb7d1ddb0c" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
+[**Slides**](https://maps.library.utoronto.ca/workshops/ArcGISProIntro/Slides.pdf)
 
+<iframe
+  src="https://maps.library.utoronto.ca/workshops/ArcGISProIntro/Slides.pdf"
+  width="100%"
+  height=500
+  style="border: none;">
+</iframe>
+
+**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
