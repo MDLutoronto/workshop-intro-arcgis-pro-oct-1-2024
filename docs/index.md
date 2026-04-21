@@ -1,7 +1,7 @@
 ---
 title: "Workshop Recording: An Introductory Tour of ArcGIS Pro (Oct. 1, 2024)"
 layout: "home"
-description: "UCLA's introductory guide to various statistical analyses in SAS: http://stats.idre.ucla.edu.myaccess.library.utoronto.ca/sas/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-sas/"
+description: "This page provides a video recording of a workshop in ArcGIS Pro focusing on spatial analysis."
 created_date: 2025-01-24
 maintainer:
     - name: Cole White
